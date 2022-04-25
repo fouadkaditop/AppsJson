@@ -1,0 +1,35 @@
+{
+
+
+  "data":[
+    {
+      
+      "FaceBanner":"",
+      "FaceInterstitial":"",
+	  	  
+      "UnityGame":"",
+      "UnityInterstitial":"Interstitial_Android",
+      "UnityBanner":"Banner_Android",
+
+	  
+      "ApplovinInterstitial":"",
+      "ApplovinBanner":"",
+	    
+      "ApplovinInterstitialMax":"",
+      "ApplovinBannerMax":"",
+
+
+      "IronInterstitial" : "",
+      "IronBanner" : "",
+	    
+      "UrlDefault":"",
+
+
+      "Switch":"fan"
+	  
+ 
+    }
+  ]
+
+
+}
