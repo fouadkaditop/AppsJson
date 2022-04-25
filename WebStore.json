@@ -23,6 +23,7 @@
       "IronBanner" : "",
 	    
       "UrlDefault":"https://www.jumia.ma/",
+	"ActiveWeb" : "on",
 
 
       "Switch":"fan"
