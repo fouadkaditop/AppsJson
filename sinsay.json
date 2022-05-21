@@ -15,8 +15,8 @@
       "ApplovinInterstitial":"",
       "ApplovinBanner":"",
 	    
-      "ApplovinInterstitialMax":"ebc26084a10e473d",
-      "ApplovinBannerMax":"ba7fedc945020d3b",
+      "ApplovinInterstitialMax":"b20e01e2fbdc52b7",
+      "ApplovinBannerMax":"5651190829575248",
 
 
       "IronInterstitial" : "",
@@ -26,7 +26,7 @@
 	"ActiveWeb" : "on",
 
 
-      "Switch":"fan"
+      "Switch":"max"
 	  
  
     }
