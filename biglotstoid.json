@@ -23,7 +23,7 @@
       "IronBanner" : "",
 	    
       "UrlDefault":"https://www.biglots.com/",
-	"ActiveWeb" : "on",
+	"ActiveWeb" : "off",
 
 
       "Switch":"fan"
