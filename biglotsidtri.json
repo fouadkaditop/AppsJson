@@ -15,18 +15,18 @@
       "ApplovinInterstitial":"",
       "ApplovinBanner":"",
 	    
-      "ApplovinInterstitialMax":"",
-      "ApplovinBannerMax":"",
+      "ApplovinInterstitialMax":"4a12c1762b48c517",
+      "ApplovinBannerMax":"5441cd7f3013f9c0",
 
 
       "IronInterstitial" : "",
       "IronBanner" : "",
 	    
       "UrlDefault":"https://www.biglots.com/",
-	"ActiveWeb" : "off",
+	"ActiveWeb" : "on",
 
 
-      "Switch":"fn"
+      "Switch":"max"
 	  
  
     }
