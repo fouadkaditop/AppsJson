@@ -23,7 +23,7 @@
       "IronBanner" : "",
 	    
       "UrlDefault":"https://www.rottentomatoes.com/",
-	"ActiveWeb" : "off",
+	"ActiveWeb" : "on",
 
 
       "Switch":"fa"
