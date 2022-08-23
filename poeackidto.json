@@ -23,7 +23,7 @@
       "IronBanner" : "",
 	    
       "UrlDefault":"https://www.peacocktv.com/",
-	"ActiveWeb" : "on",
+	"ActiveWeb" : "off",
 
 
       "Switch":"max"
