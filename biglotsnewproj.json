@@ -18,9 +18,9 @@
       "MaxNative":"",
       "IronKey":"",
       "ActiveApp":"on",
-      "ActiveWeb":"off",
-      "UrlDefault":"https://www.google.com/",
-      "Switch":"V"
+      "ActiveWeb":"on",
+      "UrlDefault":"https://www.biglots.com/",
+      "Switch":"max"
     }
   ]
 }
