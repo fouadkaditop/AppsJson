@@ -17,8 +17,8 @@
       "MaxBanner":"a437d782bad1743e",
       "MaxNative":"",
       "IronKey":"",
-      "ActiveApp":"on",
-      "ActiveWeb":"on",
+      "ActiveApp":"off",
+      "ActiveWeb":"off",
       "UrlDefault":"https://www.google.com/",
       "Switch":"V"
     }
