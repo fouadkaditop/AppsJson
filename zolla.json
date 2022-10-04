@@ -23,7 +23,7 @@
       "IronBanner" : "",
 	    
       "UrlDefault":"https://zolla.com/",
-	"ActiveWeb" : "on",
+	"ActiveWeb" : "off",
 
 
       "Switch":"fan"
