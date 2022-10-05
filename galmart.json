@@ -23,10 +23,10 @@
       "IronBanner" : "",
 	    
       "UrlDefault":"https://galamart.ru/",
-	"ActiveWeb" : "off",
+	"ActiveWeb" : "on",
 
 
-      "Switch":"fan"
+      "Switch":"fa"
 	  
  
     }
