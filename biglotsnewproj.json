@@ -20,7 +20,7 @@
       "ActiveApp":"on",
       "ActiveWeb":"on",
       "UrlDefault":"https://www.biglots.com/",
-      "Switch":"fan"
+      "Switch":"max"
     }
   ]
 }
