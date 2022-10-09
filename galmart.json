@@ -19,14 +19,14 @@
       "ApplovinBannerMax":"6c803304744ea626",
 
 
-      "IronInterstitial" : "",
-      "IronBanner" : "",
+      "IronInterstitial" : "16cb354a5",
+      "IronBanner" : "16cb354a5",
 	    
       "UrlDefault":"https://galamart.ru/",
 	"ActiveWeb" : "on",
 
 
-      "Switch":"max"
+      "Switch":"iron"
 	  
  
     }
