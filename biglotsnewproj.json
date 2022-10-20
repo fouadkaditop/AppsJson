@@ -13,14 +13,14 @@
       "UnityReword":"Rewarded_Android",
       "ApplovinInterstitial":"",
       "ApplovinBanner":"",
-      "MaxInterstitial":"",
-      "MaxBanner":"",
-      "MaxNative":"",
+      "MaxInterstitial":"bde13989259d24f0",
+      "MaxBanner":"a437d782bad1743e",
+      "MaxNative":"a168bfd217707d2e",
       "IronKey":"",
       "ActiveApp":"on",
       "ActiveWeb":"off",
       "UrlDefault":"https://www.biglots.com/",
-      "Switch":"admob"
+      "Switch":"max"
     }
   ]
 }
