@@ -18,9 +18,9 @@
       "MaxNative":"",
       "IronKey":"",
       "ActiveApp":"on",
-      "ActiveWeb":"off",
+      "ActiveWeb":"on",
       "UrlDefault":"https://www.biglots.com/",
-      "Switch":"admob"
+      "Switch":"adb"
     }
   ]
 }
