@@ -30,9 +30,9 @@
       "ActiveApp" : "yes",
       "ActiveWeb":"on",
       
-      "UrlSite":"https://www.culvers.com/menu-and-nutrition",
+      "UrlSite":"https://www.culvers.com/",
       
-      "Switch":"fan"
+      "Switch":"fn"
 	  
  
     }
