@@ -23,7 +23,7 @@
       "IronBanner" : "",
 	    
       "UrlDefault":"https://www.nike.com/fr/jordan",
-	"ActiveWeb" : "off",
+	"ActiveWeb" : "on",
 
 
       "Switch":"max"
