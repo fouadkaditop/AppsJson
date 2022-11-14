@@ -23,7 +23,7 @@
       "IronBanner" : "",
 	    
       "UrlDefault":"https://www.culvers.com/",
-	"ActiveWeb" : "off",
+	"ActiveWeb" : "on",
 
 
       "Switch":"max"
