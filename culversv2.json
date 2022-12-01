@@ -30,9 +30,9 @@
       "UrlSite":"https://www.culvers.com/",
       
       "ActiveApp" : "yes",
-      "ActiveWeb" : "no",
+      "ActiveWeb" : "yes",
      
-      "Switch":"fan"
+      "Switch":"max"
 	  
  
     }
