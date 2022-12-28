@@ -20,19 +20,19 @@
       "ApplovinInterstitial":"",
       "ApplovinBanner":"",
 	    
-      "MaxInterstitial":"",
-      "MaxBanner":"",
-      "MaxNative" : "",
+      "MaxInterstitial":"dfa1fc7461588721",
+      "MaxBanner":"403ab0dca939f2a6",
+      "MaxNative" : "59f832f0f5fe1c6a",
 
       "IronKey" : "",
       
-      "AdsCount" : "4",
+      "AdsCount" : "2",
       "ActiveApp" : "yes",
       "ActiveWeb":"on",
       
       "UrlSite":"https://galamart.ru/",
       
-      "Switch":"fan"
+      "Switch":"max"
 	  
  
     }
