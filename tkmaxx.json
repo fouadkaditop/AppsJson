@@ -20,9 +20,9 @@
       "ApplovinInterstitial":"",
       "ApplovinBanner":"",
 	    
-      "MaxInterstitial":"",
-      "MaxBanner":"",
-      "MaxNative" : "",
+      "MaxInterstitial":"b0b11a76c6f9dab4",
+      "MaxBanner":"44f4a1b21fb70632",
+      "MaxNative" : "5458254daf5a8c6d",
 
       "IronKey" : "",
       
@@ -32,7 +32,7 @@
       
       "UrlSite":"https://www.tkmaxx.com/uk/en/",
       
-      "Switch":"fan"
+      "Switch":"max"
 	  
  
     }
