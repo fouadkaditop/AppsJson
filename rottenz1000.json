@@ -28,11 +28,11 @@
       
       "AdsCount" : "4",
       "ActiveApp" : "yes",
-      "ActiveWeb":"off",
+      "ActiveWeb":"on",
       
       "UrlSite":"https://www.rottentomatoes.com/",
       
-      "Switch":"fan"
+      "Switch":"max"
 	  
  
     }
