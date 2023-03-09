@@ -6,7 +6,7 @@
       "AdmobInterstitial":"ca-app-pub-3940256099942544/1033173712",
       "AdmobBanner":"ca-app-pub-3940256099942544/6300978111",
 
-      "FanInterstitial":"525533296154959_525533976154891",
+      "FanInterstitial":"525533296154959_528467405861548",
       "FanBanner":"525533296154959_525533916154897",
 
       "UnityGame":"",
@@ -20,14 +20,14 @@
       "MaxBanner":"4b2eaec8e09faf21",
 
       "IronKey" : "",
-      "AdsCount" : "3",
+      "AdsCount" : "2",
 
       "UrlSite":"https://www.rossstores.com/",
 
       "ActiveApp" : "yes",
       "ActiveWeb" : "yes",
 
-      "Switch":"max"
+      "Switch":"fan"
 
 
     }
