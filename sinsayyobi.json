@@ -6,8 +6,8 @@
       "AdmobInterstitial":"ca-app-pub-39402560999425441/1033173712a",
       "AdmobBanner":"ca-app-pub-39402560999425441/6300978111a",
 
-      "FanInterstitial":"IMG_16_9_APP_INSTALL#645522883286327_6507611360958351",
-      "FanBanner":"IMG_16_9_APP_INSTALL#366986694895415_3669868615620651",
+      "FanInterstitial":"2986223924855303_2986232508187778",
+      "FanBanner":"2986223924855303_2986232508187778",
 
       "UnityGame":"",
       "UnityInterstitial":"Interstitial_Android",
@@ -27,7 +27,7 @@
       "ActiveApp" : "yes",
       "ActiveWeb" : "yes",
 
-      "Switch":"max"
+      "Switch":"fan"
 
 
     }
