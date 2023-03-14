@@ -9,7 +9,7 @@
       "FanInterstitial":"220981397074721_220985843740943",
       "FanBanner":"220981397074721_220985760407618",
 
-      "UnityGame":"",
+      "UnityGame":"5205373",
       "UnityInterstitial":"Interstitial_Android",
       "UnityBanner":"Banner_Android",
 
@@ -20,14 +20,14 @@
       "MaxBanner":"8369a03927da8dfa",
 
       "IronKey" : "",
-      "AdsCount" : "2",
+      "AdsCount" : "1",
 
       "UrlSite":"https://www.shoedazzle.com/",
 
       "ActiveApp" : "yes",
       "ActiveWeb" : "yes",
 
-      "Switch":"max"
+      "Switch":"unity"
 
 
     }
