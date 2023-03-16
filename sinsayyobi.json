@@ -16,8 +16,8 @@
       "ApplovinInterstitial":"",
       "ApplovinBanner":"",
 
-      "MaxInterstitial":"04dfec7675ace1b7",
-      "MaxBanner":"bc037101c040e3bc",
+      "MaxInterstitial":"f514ccb376d74405",
+      "MaxBanner":"8b662e0ca267fe8c",
 
       "IronKey" : "",
       "AdsCount" : "2",
@@ -27,7 +27,7 @@
       "ActiveApp" : "yes",
       "ActiveWeb" : "yes",
 
-      "Switch":"fan"
+      "Switch":"max"
 
 
     }
