@@ -16,18 +16,18 @@
       "ApplovinInterstitial":"",
       "ApplovinBanner":"",
 
-      "MaxInterstitial":"",
-      "MaxBanner":"",
+      "MaxInterstitial":"496a00838c516f86",
+      "MaxBanner":"f6a141b252f8aa2d",
 
       "IronKey" : "",
-      "AdsCount" : "3",
+      "AdsCount" : "2",
 
       "UrlSite":"https://www.biglots.com/",
 
       "ActiveApp" : "yes",
       "ActiveWeb" : "yes",
 
-      "Switch":"fan"
+      "Switch":"max"
 
 
     }
