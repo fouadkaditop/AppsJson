@@ -24,7 +24,7 @@
 
       "UrlSite":"https://www.rottentomatoes.com/",
 
-      "ActiveApp" : "no",
+      "ActiveApp" : "yes",
       "ActiveWeb" : "yes",
 
       "Switch":"fan"
