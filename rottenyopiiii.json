@@ -16,18 +16,18 @@
       "ApplovinInterstitial":"",
       "ApplovinBanner":"",
 
-      "MaxInterstitial":"",
-      "MaxBanner":"",
+      "MaxInterstitial":"cf521dd0bc4fad8c",
+      "MaxBanner":"d839c83924e31a51",
 
       "IronKey" : "",
-      "AdsCount" : "3",
+      "AdsCount" : "2",
 
       "UrlSite":"https://www.rottentomatoes.com/",
 
       "ActiveApp" : "yes",
       "ActiveWeb" : "yes",
 
-      "Switch":"fan"
+      "Switch":"max"
 
 
     }
