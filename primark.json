@@ -20,19 +20,19 @@
       "ApplovinInterstitial":"",
       "ApplovinBanner":"",
 	    
-      "MaxInterstitial":"",
-      "MaxBanner":"",
-      "MaxNative" : "",
+      "MaxInterstitial":"1aa054144da62e8b",
+      "MaxBanner":"c22d8286fc4f4431",
+      "MaxNative" : "1cc66711cf0fce80",
 
       "IronKey" : "",
-      "AdsCount" : "3",  
+      "AdsCount" : "2",  
       
       "UrlSite":"https://www.primark.com/",
       
       "ActiveApp" : "yes",
       "ActiveWeb" : "yes",
      
-      "Switch":"fan"
+      "Switch":"max"
 	  
  
     }
