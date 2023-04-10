@@ -8,9 +8,9 @@
       "AdmobNative" : "ca-app-pub-3940256099942544/2247696110",
       "AdmobOpen" : "ca-app-pub-3940256099942544/3419835294",
 	  
-      "FanInterstitial":"IMG_16_9_APP_INSTALL#645522883286327_650761136095831",
-      "FanBanner":"IMG_16_9_APP_INSTALL#366986694895415_366986861562061",
-      "FanNative" : "IMG_16_9_APP_INSTALL#645522883286327_651620499343231",
+      "FanInterstitial":"700502928749239_700508102082055",
+      "FanBanner":"700502928749239_700508072082058",
+      "FanNative" : "700502928749239_700508198748712",
 	  	  
       "UnityGame":"",
       "UnityInterstitial":"Interstitial_Android",
@@ -32,7 +32,7 @@
       "ActiveApp" : "yes",
       "ActiveWeb" : "yes",
      
-      "Switch":"max"
+      "Switch":"fan"
 	  
  
     }
