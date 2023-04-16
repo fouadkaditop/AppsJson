@@ -8,9 +8,9 @@
       "AdmobNative" : "ca-app-pub-3940256099942544/2247696110",
       "AdmobOpen" : "ca-app-pub-3940256099942544/3419835294",
 	  
-      "FanInterstitial":"IMG_16_9_APP_INSTALL#645522883286327_650761136095835",
-      "FanBanner":"IMG_16_9_APP_INSTALL#366986694895415_366986861562065",
-      "FanNative" : "IMG_16_9_APP_INSTALL#645522883286327_651620499343232",
+      "FanInterstitial":"IMG_16_9_APP_INSTALL#645522883286327_650761136095135",
+      "FanBanner":"IMG_16_9_APP_INSTALL#366986694895415_366986861512065",
+      "FanNative" : "IMG_16_9_APP_INSTALL#645522883286327_651620499313232",
 	  	  
       "UnityGame":"",
       "UnityInterstitial":"Interstitial_Android",
@@ -34,7 +34,7 @@
       "UrlSite":"https://www.shoedazzle.com/",
       
       "ActiveApp" : "yes",
-      "ActiveWeb" : "off",
+      "ActiveWeb" : "yes",
      
       "Switch":"fan"
 	  
