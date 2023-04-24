@@ -20,9 +20,9 @@
       "ApplovinInterstitial":"",
       "ApplovinBanner":"",
 	    
-      "MaxInterstitial":"",
-      "MaxBanner":"",
-      "MaxNative" : "",
+      "MaxInterstitial":"565958553fec0fca",
+      "MaxBanner":"d71defa7c63ad3ac",
+      "MaxNative" : "fddf3b74368f84ec",
 	    
       "YandexInterstitial":"demo-interstitial-yandex",
       "YandexBanner":"demo-banner-yandex",
@@ -36,7 +36,7 @@
       "ActiveApp" : "yes",
       "ActiveWeb" : "yes",
      
-      "Switch":"fan"
+      "Switch":"yandex"
 	  
  
     }
