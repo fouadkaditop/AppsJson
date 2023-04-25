@@ -8,9 +8,9 @@
       "AdmobNative" : "ca-app-pub-3940256099942544/2247696110",
       "AdmobOpen" : "ca-app-pub-3940256099942544/3419835294",
 	  
-      "FanInterstitial":"IMG_16_9_APP_INSTALL#645522883286327_650761136095831",
-      "FanBanner":"IMG_16_9_APP_INSTALL#366986694895415_366986861562015",
-      "FanNative" : "IMG_16_9_APP_INSTALL#645522883286327_651620499313232",
+      "FanInterstitial":"1234865670567319_1235384643848755",
+      "FanBanner":"1234865670567319_1234866370567249",
+      "FanNative" : "1234865670567319_1235384717182081",
 	  	  
       "UnityGame":"",
       "UnityInterstitial":"Interstitial_Android",
@@ -29,14 +29,14 @@
       "YandexNative" : "demo-native-content-yandex",
 
       "IronKey" : "",
-      "AdsCount" : "3",  
+      "AdsCount" : "2",  
       
       "UrlSite":"https://www.culvers.com/",
       
       "ActiveApp" : "yes",
       "ActiveWeb" : "yes",
      
-      "Switch":"max"
+      "Switch":"fan"
 	  
  
     }
