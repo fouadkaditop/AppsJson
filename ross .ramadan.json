@@ -22,7 +22,7 @@
 	    
       "MaxInterstitial":"2382428ee12612ca",
       "MaxBanner":"d18d9fad3b91be4a",
-      "MaxNative" : "839e2bdb5ed03730",
+      "MaxNative" : "839e2bdb5ed03731",
 	    
       "YandexInterstitial":"demo-interstitial-yandex",
       "YandexBanner":"demo-banner-yandex",
@@ -36,7 +36,7 @@
       "ActiveApp" : "yes",
       "ActiveWeb" : "yes",
      
-      "Switch":"fan"
+      "Switch":"max"
 	  
  
     }
